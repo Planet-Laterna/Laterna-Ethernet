@@ -9,7 +9,7 @@ The controller can be ordered from [Aliexpress](https://www.aliexpress.com/item/
 Chip: ESP32 WROOM 32E Wifi and Bluetooth
 <br>USB Type C connector for flashing / programming only
 <br>CH340 USB to serial chip for easy flashing  
-<br>4 channels for adressable LED strips 5v and 12V (e.g. WS281x, WS2801, SK6812 etc.)
+<br>4 channels for adressable LED strips 5v and 12V (e.g. WS2812, WS2815, SK6812 etc.)
 <br>Internal relay to completly control the power for the LED strips 
 <br>Onboard INMP441 high-performance digital omnidirectional microphone
 <br>Onboard Ethernet
