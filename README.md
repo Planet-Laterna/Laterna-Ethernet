@@ -37,7 +37,7 @@ We also have a ESPHome template available which can be easily flashed via [this 
 
 <h3>PINOUT Description</h3>
 
-<img src="/Photos/Laterna_Pinout.png" width="50%">
+<img src="/Photos/Laterna-V2_Pinout.png" width="100%">
 
 <h3>Circuit protection</h3>
 
