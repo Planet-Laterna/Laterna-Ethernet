@@ -17,7 +17,7 @@ Chip: ESP32 WROOM 32E Wifi and Bluetooth
 <br>Works with 5V, 12V (Input = Output Voltage)
 <br>3 additional GPIOs for adding sensors, buttons, etc.
 
-<img src="/Photos/Laterna.png" width="50%"><img src="/Photos/Laterna_blue_terminals_case.png" width="50%">
+<br><img src="/Photos/Laterna-V2.jpg" width="50%">
 
 <h3>Installation</h3>
 
