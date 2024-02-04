@@ -10,10 +10,10 @@ Chip: ESP32 WROOM 32E Wifi and Bluetooth
 <br>USB Type C connector for flashing / programming only
 <br>CH340 USB to serial chip for easy flashing  
 <br>4 channels for adressable LED strips 5v and 12V (e.g. WS2812, WS2815, SK6812 etc.)
+<br>Each channel can support 10 A and has output overcurrent protection. No external Fuse required
 <br>Internal relay to completly control the power for the LED strips 
 <br>Onboard INMP441 high-performance digital omnidirectional microphone
 <br>Onboard Ethernet
-<br>10A resettable Fuse (https://en.wikipedia.org/wiki/Resettable_fuse)
 <br>Works with 5V, 12V (Input = Output Voltage)
 <br>3 additional GPIOs for adding sensors, buttons, etc.
 
@@ -26,7 +26,7 @@ All our boards are delivered with a default WLED version **link to board version
 You can customize the software based on your needs and flash it by **USB** or the **programming connector**.
 The board has an integrated CH340 USB to UART bridge so you can flash it without using **any additional hardware**.
 
-For Flashing a precompiled Firmware we recommend [ESPHome Flasher](https://github.com/esphome/esphome-flasher/releases "ESPHome Flasher Releases")
+For Flashing a precompiled<br> Firmware we recommend [ESPHome Flasher](https://github.com/esphome/esphome-flasher/releases "ESPHome Flasher Releases")
 
 We also have a ESPHome template available which can be easily flashed via [this website](https://planet-laterna.github.io/Laterna-ESPHome-template)
 
