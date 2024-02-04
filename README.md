@@ -1,4 +1,4 @@
-# Laterna-V2
+# Laterna-Ethernet
 
 The Laterna series of boards are mainly intended to be used with [WLED software ](https://github.com/Aircoookie/WLED "WLED's Homepage"), but you can also program the board using your own code or other library via [Arduino](https://www.arduino.cc "Arduino Homepage"), [ESPHome](https://esphome.io "ESPHome Homepage"), [Tasmota](https://tasmota.github.io/docs "Tasmota Homepage") etc.
 <br>The board comes with or without soldered screw terminal and extra pins.
