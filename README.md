@@ -17,7 +17,7 @@ Chip: ESP32 WROOM 32E Wifi and Bluetooth
 <br>Works with 5V, 12V (Input = Output Voltage)
 <br>3 additional GPIOs for adding sensors, buttons, etc.
 
-<br><img src="/Photos/Laterna-V2.jpg" width="50%">
+<br><img src="/Photos/Laterna-ETH.jpg" width="50%">
 
 <h3>Installation</h3>
 
@@ -37,7 +37,7 @@ We also have a ESPHome template available which can be easily flashed via [this 
 
 <h3>PINOUT Description</h3>
 
-<img src="/Photos/Laterna-V2_Pinout.png" width="100%">
+<img src="/Photos/Laterna-ETH_Pinout.png" width="100%">
 
 <h3>Circuit protection</h3>
 
